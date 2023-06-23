@@ -1,0 +1,15 @@
+C:\git\HackerRankChallenges\HackerRankChallenges\obj\Debug\net6.0\HackerRankChallenges.csproj.AssemblyReference.cache
+C:\git\HackerRankChallenges\HackerRankChallenges\obj\Debug\net6.0\HackerRankChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\HackerRankChallenges\HackerRankChallenges\obj\Debug\net6.0\HackerRankChallenges.AssemblyInfoInputs.cache
+C:\git\HackerRankChallenges\HackerRankChallenges\obj\Debug\net6.0\HackerRankChallenges.AssemblyInfo.cs
+C:\git\HackerRankChallenges\HackerRankChallenges\obj\Debug\net6.0\HackerRankChallenges.csproj.CoreCompileInputs.cache
+C:\git\HackerRankChallenges\HackerRankChallenges\bin\Debug\net6.0\HackerRankChallenges.exe
+C:\git\HackerRankChallenges\HackerRankChallenges\bin\Debug\net6.0\HackerRankChallenges.deps.json
+C:\git\HackerRankChallenges\HackerRankChallenges\bin\Debug\net6.0\HackerRankChallenges.runtimeconfig.json
+C:\git\HackerRankChallenges\HackerRankChallenges\bin\Debug\net6.0\HackerRankChallenges.dll
+C:\git\HackerRankChallenges\HackerRankChallenges\bin\Debug\net6.0\HackerRankChallenges.pdb
+C:\git\HackerRankChallenges\HackerRankChallenges\obj\Debug\net6.0\HackerRankChallenges.dll
+C:\git\HackerRankChallenges\HackerRankChallenges\obj\Debug\net6.0\refint\HackerRankChallenges.dll
+C:\git\HackerRankChallenges\HackerRankChallenges\obj\Debug\net6.0\HackerRankChallenges.pdb
+C:\git\HackerRankChallenges\HackerRankChallenges\obj\Debug\net6.0\HackerRankChallenges.genruntimeconfig.cache
+C:\git\HackerRankChallenges\HackerRankChallenges\obj\Debug\net6.0\ref\HackerRankChallenges.dll

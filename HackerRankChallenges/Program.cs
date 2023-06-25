@@ -5,7 +5,8 @@
         public static void Main(string[] args)
         {
             //MathingStrings.Initialize();
-            LeftRotation.Initialize();
+            //LeftRotation.Initialize();
+            //DynamicArray.Initialize();
         }
     }
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\HackerRankChallenges\\HackerRankChallenges\\HackerRankChallenges.csproj",
+      "projectUniqueName": "C:\\git\\code-challenges\\HackerRankChallenges\\HackerRankChallenges.csproj",
       "projectName": "HackerRankChallenges",
-      "projectPath": "C:\\git\\HackerRankChallenges\\HackerRankChallenges\\HackerRankChallenges.csproj",
+      "projectPath": "C:\\git\\code-challenges\\HackerRankChallenges\\HackerRankChallenges.csproj",
       "packagesPath": "C:\\Users\\Ricardo\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\HackerRankChallenges\\HackerRankChallenges\\obj\\",
+      "outputPath": "C:\\git\\code-challenges\\HackerRankChallenges\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

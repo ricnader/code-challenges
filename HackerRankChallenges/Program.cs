@@ -7,6 +7,7 @@
             //MathingStrings.Initialize();
             //LeftRotation.Initialize();
             //DynamicArray.Initialize();
+            ArrayManipulation.Initialize();
         }
     }
 }

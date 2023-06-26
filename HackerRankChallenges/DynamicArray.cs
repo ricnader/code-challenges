@@ -1,6 +1,4 @@
-﻿using System.Net;
-
-class DynamicArray
+﻿class DynamicArray
 {
     public static void Initialize()
     {

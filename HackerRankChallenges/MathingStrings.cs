@@ -1,11 +1,12 @@
-﻿    /*
-     * Complete the 'matchingStrings' function below.
-    *
-    * The function is expected to return an INTEGER_ARRAY.
-    * The function accepts following parameters:
-    *  1. STRING_ARRAY stringList
-    *  2. STRING_ARRAY queries
-    */
+﻿#region Problem Description
+/*
+* Complete the 'matchingStrings' function below.
+*
+* The function is expected to return an INTEGER_ARRAY.
+* The function accepts following parameters:
+*  1. STRING_ARRAY stringList
+*  2. STRING_ARRAY queries
+*/
 
 //strings brings a list of strings that the method will use to
 //search with the strings that come from queries.
@@ -15,7 +16,9 @@
 //The next lines will be the strings.
 //Second input must be an int corresponding of how many strings will be in the list of queries
 //The next lines will be the strings.
-//From HackerRank
+//From HackerRank 
+#endregion
+
 public static class MathingStrings
 {
     public static void Initialize()
@@ -43,6 +46,7 @@ public static class MathingStrings
         List<int> res = MatchingStrings(stringList, queries);
     }
 
+    //Solution
     public static List<int> MatchingStrings(List<string> stringList, List<string> queries)
     {
         List<int> listResult = new List<int>();

@@ -1,4 +1,33 @@
-﻿class DynamicArray
+﻿
+#region Problem Description
+//Declare a 2-dimensional array,arr , of  empty arrays. All arrays are zero indexed.
+//Declare an integer, [lastAnswer], and initialize it to 0.
+
+//There are 2 types of queries, given as an array of strings for you to parse:
+
+//Query: 1 x y
+//Let idx = ((x^lastAnswer) % n).
+//Append the integer y to arr[idx].
+//Query: 2 x y
+//Let idx = ((x^lastAnswer) % n).
+//Assign the value arr[idx][y % size([idx])] to [lastAnswer].
+//Store the new value of [lastAnswer] to an answers array.
+
+//Sample input
+//2 5
+//1 0 5
+//1 1 7
+//1 0 3
+//2 1 0
+//2 1 1
+
+
+//Sample output 
+//7
+//3 
+#endregion
+
+class DynamicArray
 {
     public static void Initialize()
     {
@@ -24,7 +53,7 @@
     }
 
 
-
+    //Solution
     public static List<int> ProcessList(int n, List<List<int>> queries)
     {
         List<int> lstAnswers = new List<int>();

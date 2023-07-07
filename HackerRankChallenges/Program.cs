@@ -9,7 +9,8 @@
             //DynamicArray.Initialize();
             //ArrayManipulation.Initialize();
             //PrintElementsFromLinkedList.Initialize();
-            InsertTailLinkedList.Initialize();
+            //InsertTailLinkedList.Initialize();
+            InsertHeadLinkedList.Initialize();
         }
     }
 }

@@ -10,7 +10,7 @@ namespace HackerRankChallenges.Classes
     {
 
 
-        public int data = 0;
+        public int? data = 0;
         public SinglyLinkedListNode next;
 
         public SinglyLinkedListNode()
@@ -18,7 +18,7 @@ namespace HackerRankChallenges.Classes
             
         }
 
-        public SinglyLinkedListNode(int data)
+        public SinglyLinkedListNode(int? data)
         {
             this.data = data;
         }

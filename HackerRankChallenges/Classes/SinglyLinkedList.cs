@@ -4,41 +4,31 @@
     {
         public SinglyLinkedListNode head { get;  set; }
 
-        public void InsertNode(int value)
+        public void InsertNodeAtTail(int value)
         {
-
+            SinglyLinkedListNode newNode = new SinglyLinkedListNode()
+            {
+                data = value,
+                next = null
+            };
 
             if (head == null)
+            {
                 this.head = new SinglyLinkedListNode()
                 {
-                    next = new SinglyLinkedListNode()
-                    {
-                        data = value,
-                        next = null
-                    }
-                };
-            else
-            {
-                SinglyLinkedListNode nHead = new SinglyLinkedListNode()
-                {
-                    data = head.next.data,
-                    next = null
+                    next = newNode
                 };
 
-                SinglyLinkedListNode nNext = new SinglyLinkedListNode()
-                {
-                    data = head.data,
-                    next = head
-                };
-
-                head = nHead;
-                head.next = new SinglyLinkedListNode()
-                {
-                    data = value,
-                    next = nNext
-                };
-
+                return;
             }
+
+            newNode.next = new SinglyLinkedListNode()
+            {
+                data = head.data,
+                next = head
+            };
+
+            head.next = newNode;
         }
     }
 }

@@ -6,10 +6,13 @@
 
 
 //Input Format
-//141,302, 164, 530, 474
+//5 (input item count)
+
+//141 302 164 530 474
 
 //output Format
-//141,302, 164, 530, 474
+//141 302 164 530 474
+
 
 
 using HackerRankChallenges.Classes;

@@ -13,7 +13,7 @@ namespace HackerRankChallenges
             for (int i = 0; i < llistCount; i++)
             {
                 int llistItem = Convert.ToInt32(Console.ReadLine());
-                llist.InsertNode(llistItem);
+                llist.InsertNodeAtTail(llistItem);
             }
 
             printLinkedList(llist.head);
